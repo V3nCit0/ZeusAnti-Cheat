@@ -1,2 +1,8 @@
 # ZeusAnti-Cheat
-An minecraft 1.19 anti-cheat
+{} ============== {}
+Still in development. There is a lot of things to be done.
+
+
+This project was started on 11/04/2023
+
+{} ============== {}
